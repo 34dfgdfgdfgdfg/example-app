@@ -33,6 +33,15 @@ Built with [@angular/cli](https://github.com/angular/angular-cli)
 git clone https://github.com/ngrx/example-app.git
 
 
+
+sdfsdfdsfs
+
+sdf
+sd
+fsd
+fsd
+f
+sdf
 # change directory to repo
 cd example-app
 
